@@ -2,11 +2,12 @@
 # Angry Birds Clone - Static GUI Implementation
 ## CSE201 Advanced Programming Project
 
-### GitHub Link: [Angry Birds Clone](https://github.com/mrayhankhan/AngryBirds_LibGDX)
 
 ### Team Members:
-- M Rayhankhan - 2022269
+
 - Raunak Kumar Giri - 2023427
+- M Rayhankhan - 2022269
+
 
 # Angry Birds Clone
 
